@@ -2,6 +2,8 @@
 
 <i>Fiquei imaginando como seria o portal e AVA das escolas municipais e estaduais (independente se for públicas e particulares), e também não consegui um nome melhor para o projeto, irá ser esse mesmo :)</i>
 
+:warning: <h5><i>Isso é um conceito de como imagino o portal</i></h5> :warning:
+
 <h6>O significado:</h6>
 
 ![Symbol Diagram(1)](https://user-images.githubusercontent.com/29151587/120912007-1e288a00-c662-11eb-84e5-f4b62a19a9e7.jpg)
